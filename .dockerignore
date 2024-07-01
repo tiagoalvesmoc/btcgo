@@ -1,0 +1,8 @@
+# Ignore arquivos de build locais
+/build
+/*.out
+
+# Ignore arquivos e diretórios do sistema
+/.git
+/.vscode
+/node_modules
